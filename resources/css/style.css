@@ -1,0 +1,36 @@
+
+html {
+  background-color: black;
+}
+h1 {
+  font-family: Verdana;
+  font-weight: normal;
+  font-size: 50px;
+  color: white
+  text-align: center;
+}
+.download_excursion {
+  color: aquamarine;
+  font-size: 16px;
+}
+h2 {
+  font-family: Verdana;
+  font-weight: 300;
+  font-size: 42px;
+  text-align: center;
+
+p {
+  font-family: Verdana;
+  font-size: 21px
+  color: gray;
+}
+img {
+  text-align: center;
+}
+video {
+  text-align: center;
+}
+.copyright {
+  text-align: right;
+  color: gray;
+}
